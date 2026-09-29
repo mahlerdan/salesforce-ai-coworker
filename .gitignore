@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Credentials — NEVER commit these
+**/credentials/
+**/secrets/
+*.pem
+*.key
+*-service-account.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Hermes runtime (local only)
+.hermes/
+
+# Private/client-specific content
+private/
+clients/

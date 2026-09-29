@@ -1,8 +1,8 @@
-# Salesforce AI Coworker
+# Scout — Your AI Coworker for Salesforce
 
 Build your own AI coworker for Salesforce — powered by [Hermes Agent](https://hermes-agent.nousresearch.com/).
 
-> **"I built myself an AI coworker for Salesforce."**
+> **"I built myself an AI coworker for Salesforce. His name is Scout."**
 
 This project is a practical, open-source guide to building an AI agent that helps Salesforce professionals do their actual jobs: reviewing meeting notes, writing requirements, troubleshooting problems, building solutions, and keeping track of everything.
 
